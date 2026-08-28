@@ -55,6 +55,7 @@ Modelo de seguimiento orientado al análisis de un asistente virtual y su capaci
 `Power BI` `DAX` `SQL` `Conversational Analytics`
 
 ➡️ [Explorar proyecto](./02-virtual-assistant-analytics/)
+
 ---
 
 ## 03 — Transaction Analytics Hub
