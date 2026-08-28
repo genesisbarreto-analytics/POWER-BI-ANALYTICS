@@ -54,8 +54,7 @@ Modelo de seguimiento orientado al análisis de un asistente virtual y su capaci
 
 `Power BI` `DAX` `SQL` `Conversational Analytics`
 
-🚧 Próximo case study.
-
+➡️ [Explorar proyecto](./02-virtual-assistant-analytics/)
 ---
 
 ## 03 — Transaction Analytics Hub
@@ -70,7 +69,7 @@ Producto analítico desarrollado para monitorear múltiples journeys y funcional
 
 `Power BI` `DAX` `SQL Server` `Data Modeling`
 
-🚧 Próximo case study.
+➡️ [Explorar proyecto](./03-transaction-analytics-hub/)
 
 ---
 
@@ -86,7 +85,7 @@ Visión ejecutiva para relacionar comportamiento digital, automatización y valo
 
 `Power BI` `DAX` `SQL Server` `Business Analytics`
 
-🚧 Próximo case study.
+➡️ [Explorar proyecto](./04-omnichannel-business-value/)
 
 ---
 
